@@ -17,4 +17,3 @@ if user_age > 18:
 else:
     print("tu kaka chuti kar!!!")
 
-print()
